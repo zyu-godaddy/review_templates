@@ -1,0 +1,13 @@
+Testing simple stuff
+
+Property Access ---
+
+Desc: ${desc}
+Name: ${person.name}
+Age:  ${person.age}
+
+CSV ---
+
+<#list people as p>
+${p.name},${p.age}
+</#list>

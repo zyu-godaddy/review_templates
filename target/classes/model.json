@@ -1,0 +1,10 @@
+{
+  "desc": "who's in matrix",
+
+  "person": { "name": "Neo", "age": 30 },
+
+  "people": [
+    { "name": "Smith", "age": 200 },
+    { "name": "Morpheus", "age": 40 }
+  ]
+}
